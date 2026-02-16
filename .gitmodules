@@ -1,0 +1,6 @@
+[submodule "submodules/SOECS"]
+	path = submodules/SOECS
+	url = https://github.com/TimJKent/SOECS
+[submodule "submodules/SOGLR"]
+	path = submodules/SOGLR
+	url = https://github.com/TimJKent/SOGLR
